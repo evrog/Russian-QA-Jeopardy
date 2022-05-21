@@ -126,3 +126,6 @@ The second metric is similar to scoring in the classic game: if the answer is co
 ## License
 
 Questions, answers and topics posted in the dataset are distributed under the license of the Spots ChGK Internet Club "What? Where? When?" https://db.chgk.info/copyright. The results of the authors' own development: computer programs and text files that do not contain questions, as well as our method for structuring information in the dataset are distributed under the Creative Commons Attribution-ShareAlike 4.0 Worldwide license https://creativecommons .org/licenses/by-sa/4.0/ .
+
+## Citing
+Our pre-print: Mikhalkova, Elena. "A Russian Jeopardy! Data Set for Question-Answering Systems." arXiv preprint arXiv:2112.02325 (2021). The paper will soon appear in proceedings of LREC 2022.
