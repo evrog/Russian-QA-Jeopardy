@@ -123,4 +123,6 @@ As the first metric, we propose the METEOR coefficient in the NLTK implementatio
 
 The second metric is similar to scoring in the classic game: if the answer is correct, the weight of the question in the topic (category) is added to the system's score; if it is incorrect, it is subtracted. If the system can abstain from answering, for example, by self-evaluating its best result as incorrect, then the score does not change.
 
-All texts from traning_data.csv are distributed under different CreativeCommons licenses. See https://db.chgk.info/copyright for more detail.
+## License
+
+Questions, answers and topics posted in the dataset are distributed under the license of the Spots ChGK Internet Club "What? Where? When?" https://db.chgk.info/copyright. The results of the authors' own development: computer programs and text files that do not contain questions, as well as our method for structuring information in the dataset are distributed under the Creative Commons Attribution-ShareAlike 4.0 Worldwide license https://creativecommons .org/licenses/by-sa/4.0/ .
